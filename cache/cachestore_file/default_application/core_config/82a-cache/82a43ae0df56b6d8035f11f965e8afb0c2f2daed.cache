@@ -1,0 +1,83 @@
+a:83:{s:13:"bannercontent";s:0:"";s:13:"bannerheading";s:25:"LMS PPSDM Ketenagakerjaan";s:10:"brandcolor";s:0:"";s:12:"clientscount";s:1:"1";s:16:"clientsfrontpage";s:1:"0";s:13:"clientsimage1";s:0:"";s:15:"clientssubtitle";s:26:"Clients that believe in us";s:12:"clientstitle";s:11:"Our clients";s:11:"clientsurl1";s:0:"";s:14:"courselistview";s:1:"0";s:18:"coursepresentation";s:1:"1";s:24:"disablefrontpageloginbox";s:1:"1";s:18:"disableteacherspic";s:1:"0";s:19:"displaymarketingbox";s:1:"1";s:8:"facebook";s:20:"@PusdiklatKemnakerRI";s:7:"favicon";s:48:"/Logo Pusat Pengembangan SDM Ketenagakerjaan.ico";s:19:"forumcustomtemplate";s:1:"0";s:20:"forumhtmlemailfooter";s:0:"";s:20:"forumhtmlemailheader";s:0:"";s:17:"getintouchcontent";s:9:"Sapa Kami";s:15:"googleanalytics";s:0:"";s:9:"headerimg";s:0:"";s:9:"instagram";s:15:"@ppsdm_kemnaker";s:8:"linkedin";s:0:"";s:10:"loginbgimg";s:0:"";s:4:"logo";s:15:"/Logo PPSDM.svg";s:4:"mail";s:28:"pusdiklat.sdm@kemnaker.go.id";s:17:"marketing1content";s:49:"Moodle hosting in a powerful cloud infrastructure";s:17:"marketing1heading";s:9:"INFORMASI";s:14:"marketing1icon";s:14:"/informasi.svg";s:20:"marketing1subheading";s:0:"";s:13:"marketing1url";s:1:"#";s:17:"marketing2content";s:38:"Moodle consulting and training for you";s:17:"marketing2heading";s:10:"REGISTRASI";s:14:"marketing2icon";s:15:"/registrasi.svg";s:20:"marketing2subheading";s:0:"";s:13:"marketing2url";s:1:"#";s:17:"marketing3content";s:45:"We develop themes and plugins as your desires";s:17:"marketing3heading";s:8:"TUTORIAL";s:14:"marketing3icon";s:13:"/tutorial.svg";s:20:"marketing3subheading";s:0:"";s:13:"marketing3url";s:1:"#";s:17:"marketing4content";s:26:"MOODLE specialized support";s:17:"marketing4heading";s:8:"DOWNLOAD";s:14:"marketing4icon";s:13:"/download.svg";s:20:"marketing4subheading";s:0:"";s:13:"marketing4url";s:1:"#";s:6:"mobile";s:13:"(021) 8090804";s:8:"navbarbg";s:7:"#0D2F81";s:13:"navbarbghover";s:7:"#072670";s:17:"navbarheadercolor";s:7:"#FFFFFF";s:16:"numbersfrontpage";s:1:"1";s:6:"preset";s:12:"default.scss";s:11:"presetfiles";s:0:"";s:4:"scss";s:1701:"#nav-drawer .list-group+.list-group{
+border-top: 3px solid #586fa8;
+}
+
+#page-my-index #region-main-box #region-main .card:not([class*="dashboard-card"]){
+border-top: solid 2px #0D2F81;
+}
+.alert-success{
+color: #0a4782;
+background-color: #cfd5e6;
+border-color: #cfd5e6;
+}
+body{
+font-family: "Roboto",sans-serif;
+}
+a{
+color: #333333;
+transition: all .2s ease;
+}
+a:hover{
+color: #0D2F81;
+text-decoration: none;
+}
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6{
+font-family: "Roboto",sans-serif;
+}
+
+#page-site-index.notloggedin .frontpage-numbers{
+background: #0D2F81;
+}
+#page-footer{
+background-color: #072670;
+}
+#page-site-index.notloggedin .frontpage-numbers .row h2{
+-webkit-filter:none;
+filter: none;
+}
+.badge-info{
+background-color: #c1c1c1;
+}
+.badge{
+font-weight: 500;
+}
+body.notloggedin .btn-login-top{
+color: #0d2f81;
+border: 1px solid #0d2f81;
+}
+.btn-primary{
+background-color: #0D2F81;
+border-color: #0D2F81;
+}
+body.notloggedin #loginbox p a{
+color: #DD4B39;
+}
+#page-site-index.notloggedin .frontpage-numbers .row .number p{
+font-weight: 500;
+}
+#page-site-index #frontpage-available-course-list h2{
+color: #333;
+}
+#page-site-index #frontpage-available-course-list h2:before, #page-site-index #frontpage-available-course-list h2:after{
+border-bottom: 1px solid #333333;
+border-top: 1px solid #333333;
+}
+#page-site-index.notloggedin .frontpage-marketing .card h2{
+color: #333333;
+}
+#page-site-index.notloggedin .frontpage-marketing .card p{
+color: #333333;
+}
+.card-title{
+margin-top: .75rem;
+}
+img.activityicon{
+height: 28px;
+width: 28px;
+}
+.instancename{
+font-size: 1.2rem;
+}
+.card-deck{
+margin-top: 5rem;
+}";s:7:"scsspre";s:0:"";s:10:"slidercap1";s:0:"";s:10:"slidercap2";s:0:"";s:10:"slidercap3";s:0:"";s:10:"slidercap4";s:0:"";s:11:"slidercount";s:1:"4";s:13:"sliderenabled";s:1:"1";s:15:"sliderfrontpage";s:1:"1";s:12:"sliderimage1";s:11:"/slide1.png";s:12:"sliderimage2";s:0:"";s:12:"sliderimage3";s:0:"";s:12:"sliderimage4";s:0:"";s:12:"slidertitle1";s:0:"";s:12:"slidertitle2";s:0:"";s:12:"slidertitle3";s:0:"";s:12:"slidertitle4";s:0:"";s:13:"sponsorscount";s:1:"1";s:17:"sponsorsfrontpage";s:1:"0";s:14:"sponsorsimage1";s:0:"";s:16:"sponsorssubtitle";s:45:"Companies and institutions that believe in us";s:13:"sponsorstitle";s:8:"Sponsors";s:12:"sponsorsurl1";s:0:"";s:12:"topfooterimg";s:0:"";s:7:"twitter";s:12:"@ppsdm_naker";s:7:"version";s:10:"2021051700";s:7:"website";s:31:"http://pusdiklat.kemnaker.go.id";s:8:"whatsapp";s:0:"";s:7:"youtube";s:14:"PPSDM KEMNAKER";}
